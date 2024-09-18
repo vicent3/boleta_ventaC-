@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\18.EstructuraDatos_boleta_venta\18.EstructuraDatos_boleta_venta\bin\Debug\18.EstructuraDatos_boleta_venta.exe.config
+C:\Users\Usuario\source\repos\18.EstructuraDatos_boleta_venta\18.EstructuraDatos_boleta_venta\bin\Debug\18.EstructuraDatos_boleta_venta.exe
+C:\Users\Usuario\source\repos\18.EstructuraDatos_boleta_venta\18.EstructuraDatos_boleta_venta\bin\Debug\18.EstructuraDatos_boleta_venta.pdb
+C:\Users\Usuario\source\repos\18.EstructuraDatos_boleta_venta\18.EstructuraDatos_boleta_venta\bin\Debug\Guna.UI2.dll
+C:\Users\Usuario\source\repos\18.EstructuraDatos_boleta_venta\18.EstructuraDatos_boleta_venta\obj\Debug\18.EstructuraDatos_boleta_venta.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\18.EstructuraDatos_boleta_venta\18.EstructuraDatos_boleta_venta\obj\Debug\_18.EstructuraDatos_boleta_venta.Form1.resources
+C:\Users\Usuario\source\repos\18.EstructuraDatos_boleta_venta\18.EstructuraDatos_boleta_venta\obj\Debug\_18.EstructuraDatos_boleta_venta.Properties.Resources.resources
+C:\Users\Usuario\source\repos\18.EstructuraDatos_boleta_venta\18.EstructuraDatos_boleta_venta\obj\Debug\18.EstructuraDatos_boleta_venta.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\18.EstructuraDatos_boleta_venta\18.EstructuraDatos_boleta_venta\obj\Debug\18.EstructuraDatos_boleta_venta.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\18.EstructuraDatos_boleta_venta\18.EstructuraDatos_boleta_venta\obj\Debug\18.EstructuraDatos_boleta_venta.exe
+C:\Users\Usuario\source\repos\18.EstructuraDatos_boleta_venta\18.EstructuraDatos_boleta_venta\obj\Debug\18.EstructuraDatos_boleta_venta.pdb
+C:\Users\Usuario\source\repos\18.EstructuraDatos_boleta_venta\18.EstructuraDatos_boleta_venta\obj\Debug\18.Estru.DDEE6DBB.Up2Date
